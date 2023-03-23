@@ -1,0 +1,4 @@
+.cache
+.DS_Storre
+node_modules
+dist
